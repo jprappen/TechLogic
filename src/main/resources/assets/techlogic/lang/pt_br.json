@@ -1,0 +1,13 @@
+{
+  "item.techlogic.aluminium_ingot": "Barra de Alumínio",
+  "item.techlogic.aluminium_nugget": "Pepita de Alumínio",
+  "item.techlogic.bauxite": "Bauxita",
+  "item.techlogic.steel_ingot": "Barra de Aço",
+  "item.techlogic.steel_nugget": "Pepita de Aço",
+
+  "block.techlogic.aluminium_block": "Bloco de Alumínio",
+  "block.techlogic.bauxite_block": "Bloco de Bauxita",
+  "block.techlogic.bauxite_ore": "Minério de Bauxita",
+  "block.techlogic.deepslate_bauxite_ore": "Minério de Bauxita de Ardosiabissal",
+  "block.techlogic.steel_block": "Bloco de aço"
+}

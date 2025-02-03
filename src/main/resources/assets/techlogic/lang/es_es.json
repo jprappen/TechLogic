@@ -1,0 +1,13 @@
+{
+  "item.techlogic.aluminium_ingot": "Lingote de aluminio",
+  "item.techlogic.aluminium_nugget": "Pepita de aluminio",
+  "item.techlogic.bauxite": "Bauxita",
+  "item.techlogic.steel_ingot": "Lingote de acero",
+  "item.techlogic.steel_nugget": "Pepita de acero",
+
+  "block.techlogic.aluminium_block": "Bloque de aluminio",
+  "block.techlogic.bauxite_block": "Bloque de bauxita",
+  "block.techlogic.bauxite_ore": "Mena de bauxita",
+  "block.techlogic.deepslate_bauxite_ore": "Mena de bauxita de pizarra profunda",
+  "block.techlogic.steel_block": "Bloque de acero"
+}

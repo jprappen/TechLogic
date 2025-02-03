@@ -1,0 +1,17 @@
+{
+  "item.techlogic.aluminium_ingot": "Aluminium Ingot",
+  "item.techlogic.aluminium_nugget": "Aluminium Nugget",
+  "item.techlogic.bauxite": "Bauxite",
+  "item.techlogic.steel_ingot": "Steel Ingot",
+  "item.techlogic.steel_nugget": "Steel Nugget",
+
+  "block.techlogic.aluminium_block": "Block of Aluminium",
+  "block.techlogic.bauxite_block": "Block of Bauxite",
+  "block.techlogic.bauxite_ore": "Bauxite Ore",
+  "block.techlogic.deepslate_bauxite_ore": "Deepslate Bauxite Ore",
+  "block.techlogic.steel_block": "Block of Steel",
+
+
+  "tab.items": "TechLogic Items",
+  "tab.blocks": "TechLogic Blocks"
+}
